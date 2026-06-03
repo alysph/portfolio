@@ -43,6 +43,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
+      <head>
+        <link rel="icon" href="/icon" type="image/png" sizes="32x32" />
+      </head>
       <body className={`${dmSans.variable} ${cormorant.variable}`}>
         {children}
       </body>
