@@ -19,8 +19,8 @@ export const metadata: Metadata = {
   title: "Alison Urrea — Fullstack Developer",
   description: "Ingeniera en Informática & Fullstack Developer. Santiago, Chile.",
   icons: {
-    icon: "./favicon.svg",
-  },
+  icon: "/favicon.svg",
+},
   openGraph: {
     title: "Alison Urrea — Fullstack Developer",
     description: "Ingeniera en Informática & Fullstack Developer. Santiago, Chile.",
