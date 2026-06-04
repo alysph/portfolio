@@ -43,7 +43,7 @@ const projects = [
   desc: "Aplicación web fullstack de e-commerce para tienda de mascotas. Incluye autenticación, carrito de compras con sesiones, gestión de pedidos, blog, API REST y panel de administración.",
   github: "https://github.com/alysph/pls-pro",
   demo: null,
-  status: "Proyecto universitario",
+  status: "Publicado",
 },
 ];
 
