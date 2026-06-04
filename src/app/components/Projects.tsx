@@ -37,7 +37,7 @@ const projects = [
 {
   num: "04",
   title: "PLS Pro",
-  subtitle: "E-Commerce fullstack · Proyecto universitario",
+  subtitle: "Primera E-Commerce fullstack · Proyecto universitario",
   type: "Fullstack Web",
   techs: ["Python", "Django", "SQLite", "Django REST Framework", "Bootstrap 5"],
   desc: "Aplicación web fullstack de e-commerce para tienda de mascotas. Incluye autenticación, carrito de compras con sesiones, gestión de pedidos, blog, API REST y panel de administración.",
