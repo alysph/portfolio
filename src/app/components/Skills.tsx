@@ -25,6 +25,7 @@ const technicalSkills = [
       { name: "Node.js", level: 50 },
       { name: "Express", level: 40 },
       { name: "Python", level: 70 },
+      { name: "Django", level: 40 },
     ],
   },
   {
