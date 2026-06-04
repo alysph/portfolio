@@ -23,6 +23,17 @@ const projects = [
     demo: "https://alysph.github.io/nos",
     status: "Publicado",
   },
+  {
+  num: "03",
+  title: "Pelushop",
+  subtitle: "Primera página web · Proyecto universitario",
+  type: "Frontend Web",
+  techs: ["HTML5", "CSS3", "JavaScript", "Bootstrap 5", "jQuery", "API REST"],
+  desc: "Mi primera página web, desarrollada como proyecto universitario en DuocUC. Tienda de ropa y accesorios para mascotas con carrusel, formularios con validación, galería y consumo de API pública de indicadores económicos chilenos en tiempo real.",
+  github: "https://github.com/alysph/pelushop",
+  demo: "https://alysph.github.io/pelushop/",
+  status: "Publicado",
+},
 ];
 
 export default function Projects() {
