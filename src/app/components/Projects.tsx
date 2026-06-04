@@ -34,6 +34,17 @@ const projects = [
   demo: "https://alysph.github.io/pelushop/",
   status: "Publicado",
 },
+{
+  num: "04",
+  title: "PLS Pro",
+  subtitle: "E-Commerce fullstack · Proyecto universitario",
+  type: "Fullstack Web",
+  techs: ["Python", "Django", "SQLite", "Django REST Framework", "Bootstrap 5"],
+  desc: "Aplicación web fullstack de e-commerce para tienda de mascotas. Incluye autenticación, carrito de compras con sesiones, gestión de pedidos, blog, API REST y panel de administración.",
+  github: "https://github.com/alysph/pls-pro",
+  demo: null,
+  status: "Proyecto universitario",
+},
 ];
 
 export default function Projects() {
