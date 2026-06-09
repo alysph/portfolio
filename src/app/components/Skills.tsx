@@ -15,8 +15,8 @@ const technicalSkills = [
   {
     area: "Mobile",
     techs: [
-      { name: "React Native", level: 50 },
-      { name: "Expo", level: 40 },
+      { name: "React Native", level: 65 },
+      { name: "Expo", level: 55 },
     ],
   },
   {
@@ -25,14 +25,15 @@ const technicalSkills = [
       { name: "Node.js", level: 50 },
       { name: "Express", level: 40 },
       { name: "Python", level: 70 },
-      { name: "Django", level: 40 },
+      { name: "Django", level: 50 },
     ],
   },
   {
     area: "Base de datos",
     techs: [
       { name: "SQL", level: 45 },
-      { name: "PostgreSQL", level: 30 },
+      { name: "PostgreSQL", level: 45 },
+      { name: "Supabase", level: 35 },
     ],
   },
   {
