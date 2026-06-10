@@ -14,7 +14,9 @@ const techs = [
   { name: "PostgreSQL", size: 13, weight: 400 },
   { name: "SQL", size: 15, weight: 500 },
   { name: "GitHub", size: 13, weight: 400 },
-   { name: "Django", size: 13, weight: 400 },
+  { name: "Django", size: 13, weight: 400 },
+  { name: "Ionic", size: 13, weight: 400 },
+  { name: "Angular", size: 13, weight: 400 },
 ];
 
 function TechCloud() {

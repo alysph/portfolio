@@ -45,6 +45,17 @@ const projects = [
   demo: null,
   status: "Publicado",
 },
+{
+  num: "05",
+  title: "RegistrApp",
+  subtitle: "App de asistencia · Proyecto universitario",
+  type: "Mobile App",
+  techs: ["Ionic", "Angular", "TypeScript", "Firebase"],
+  desc: "Aplicación móvil para control de asistencia universitaria con escaneo QR, autenticación Firebase y gestión de sesiones por asignatura.",
+  github: "https://github.com/alysph/registrapp",
+  demo: null,
+  status: "Publicado",
+},
 ];
 
 export default function Projects() {

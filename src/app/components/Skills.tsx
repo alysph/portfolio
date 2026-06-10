@@ -17,6 +17,8 @@ const technicalSkills = [
     techs: [
       { name: "React Native", level: 65 },
       { name: "Expo", level: 55 },
+      { name: "Ionic", level: 35 },
+      { name: "Angular", level: 30 },
     ],
   },
   {
