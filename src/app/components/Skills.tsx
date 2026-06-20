@@ -35,7 +35,6 @@ const technicalSkills = [
     techs: [
       { name: "SQL", level: 45 },
       { name: "PostgreSQL", level: 45 },
-      { name: "Supabase", level: 35 },
     ],
   },
   {

@@ -78,7 +78,7 @@ export default function Contact() {
             fontSize: "14px", color: "#7A7570",
             lineHeight: 1.9, marginBottom: "32px", fontWeight: 300,
           }}>
-            Estoy disponible para roles full-time, híbrido y presencial.
+            Estoy disponible para roles full-time, híbrido y remoto.
           </p>
           <div>
             {links.map((link, i) => (
