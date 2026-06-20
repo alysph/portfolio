@@ -43,6 +43,10 @@ const technicalSkills = [
     techs: [
       { name: "GitHub", level: 70 },
       { name: "Git", level: 50 },
+      { name: "BarTender", level: 50 },
+      { name: "Microsoft Office", level: 70 },
+      { name: "VBA", level: 50 },
+
     ],
   },
 ];
@@ -56,6 +60,11 @@ const softSkills = [
   "Resolución de problemas",
   "Aprendizaje autónomo",
   "Comunicación efectiva",
+  "Adaptabilidad y flexibilidad",
+  "Gestión del tiempo y organización",
+  "Atención al detalle",
+  "Pensamiento crítico",
+  "Creatividad e innovación",
 ];
 
 function SkillBar({ name, level }: { name: string; level: number }) {

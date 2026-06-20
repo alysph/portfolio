@@ -56,6 +56,17 @@ const projects = [
   demo: null,
   status: "Publicado",
 },
+{
+  num: "06",
+  title: "El Baúl del Pelu",
+  subtitle: "E-Commerce fullstack · Proyecto universitario",
+  type: "Fullstack Web",
+  techs: ["Python", "Django", "MySQL", "Bootstrap 5", "Django REST Framework"],
+  desc: "E-commerce fullstack para tienda de ropa y accesorios con carrito de compras, gestión de pedidos, blog y panel de administración.",
+  github: "https://github.com/alysph/EBDP",
+  demo: null,
+  status: "Publicado",
+},
 ];
 
 export default function Projects() {

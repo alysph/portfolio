@@ -87,7 +87,7 @@ export default function Hero() {
               Ingeniera en informática
             </div>
             <div style={{ fontSize: "13px", color: "#9A9490", lineHeight: 1.85 }}>
-              Fullstack especializada en crear productos digitales de punta a punta web, mobile y backend.
+              Desarrollo de software, automatización de procesos y análisis de datos.
             </div>
           </div>
         </div>
@@ -101,8 +101,8 @@ export default function Hero() {
         {[
           { label: "Nombre", value: "Alison Urrea Huerta" },
           { label: "Ubicación", value: "Santiago, Chile" },
-          { label: "Especialidad", value: "Fullstack · Mobile · Web" },
-          { label: "Stack", value: "React Native · TypeScript · HTML · CSS · JS · SQL" },
+          { label: "Especialidad", value: "Desarrollo · Datos · Automatización" },
+          { label: "Stack", value: "Python · SQL · React Native · TypeScript · HTML · CSS · JS" },
         ].map((item, i) => (
           <div key={i} style={{
             padding: "18px 0",

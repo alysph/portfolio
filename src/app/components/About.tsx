@@ -232,11 +232,11 @@ export default function About() {
           </span>
           <p style={{ fontSize: "12px", color: "#7A7570", lineHeight: 1.8, fontWeight: 300 }}>
             <span style={{ color: "#D4A89A" }}>Tecnología & creatividad</span>
-            {" — "}Programar · Crear proyectos · Armar computadores
+            {" — "}Programar · Crear proyectos · Aprender cosas nuevas · Diseñar · Innovar
           </p>
           <p style={{ fontSize: "12px", color: "#7A7570", lineHeight: 1.8, fontWeight: 300 }}>
             <span style={{ color: "#D4A89A" }}>Tiempo libre</span>
-            {" — "}Leer · Gaming · Series · Museos · Explorar Santiago
+            {" — "}Leer · Gaming · Series · Museos · Viajar · Café
           </p>
         </div>
 
@@ -274,13 +274,13 @@ export default function About() {
           fontSize: "14px", color: "#7A7570", lineHeight: 1.95,
           marginBottom: "20px", fontWeight: 300,
         }}>
-          Soy Alison, Ingeniera en Informática en Santiago. Empecé a programar en 2020 cuando comencé mi carrera profesional y desde entonces no paré — construí apps móviles, sitios web, automaticé procesos y operé sistemas de clase mundial en proyectos para el Banco Central de Chile y República Dominicana, trabajando desde Casa de Moneda de Chile S.A.
+          Soy Alison, Ingeniera en Informática en Santiago. Empecé a programar en 2020 cuando comencé mi carrera profesional y desde entonces no paré — construí apps móviles, sitios web, automaticé procesos y trabajé con datos en proyectos para el Banco Central de Chile y República Dominicana desde Casa de Moneda de Chile S.A.
         </p>
         <p style={{
           fontSize: "14px", color: "#7A7570", lineHeight: 1.95,
           marginBottom: "20px", fontWeight: 300,
         }}>
-          Me muevo bien en todo el stack: frontend, backend, mobile y bases de datos. Pero lo que más me define no es la tecnología que uso, sino cómo la uso... con cuidado, con lógica, con ganas de que las cosas funcionen bien y con calidad.
+          Me desenvuelvo en desarrollo de software, automatización de procesos y análisis de datos. Pero lo que más me define no es la tecnología que uso, sino cómo la uso... con cuidado, con lógica, con ganas de que las cosas funcionen bien y con calidad.
         </p>
         <p style={{
           fontSize: "14px", color: "#7A7570", lineHeight: 1.95,
